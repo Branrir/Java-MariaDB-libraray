@@ -395,11 +395,8 @@ public String Return_table_books() {
 	
 	
 	return temp;
-	
-	
+		
 }
-
-
 
 }	
 	
