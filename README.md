@@ -1,4 +1,4 @@
 # Java-MariaDB-libraray
-Java Version of library
-Some exeptions not fixed.
+Java Version of library,
+some exeptions not fixed.
 Project moved to Python.
